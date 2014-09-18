@@ -1,7 +1,6 @@
 OFBiz OSGi
 
-This effort converts the OFBiz project into a bundle in OSGi container (Eclipse Equinox OSGi container).
-
+This effort converts the OFBiz project into a bundle in OSGi container (Eclipse Equinox OSGi container).  The whole ofbiz will be started by OSGi container. Thus other OSGi bundles can access ofbiz, e.g. delegator for entity and invoking services, and vice versa.
 
 
 Stay tuned for us to submit the code.
